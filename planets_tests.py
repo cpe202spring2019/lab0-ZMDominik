@@ -1,6 +1,6 @@
 import unittest
 import io, sys
-from planets import *
+from planets import weight_on_planets\
 
 class Test_planets(unittest.TestCase):
 
